@@ -9,4 +9,4 @@ router.get('/', function(req, res, next) {
   res.send(` User accesses are: ${value}`);
 });
 
-module.exports = router;
+module.exports = router;  
