@@ -12,18 +12,5 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
-  },
-  "description": "[Heroku server] https://cli-auth.heroku.com/auth/cli/callback?code=172b8ed1-ecf1-423e-9900-5ea8c173234a&state=0ad75312-bf92-4c10-8e1e-c50416632bcc",
-  "main": "app.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dheemanthreddy/fwa25sanku.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dheemanthreddy/fwa25sanku/issues"
-  },
-  "homepage": "https://github.com/dheemanthreddy/fwa25sanku#readme"
+  }
 }
