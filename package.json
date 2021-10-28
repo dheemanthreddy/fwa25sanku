@@ -1,24 +1,29 @@
 {
-  "name": "sanku",
-  "version": "1.1.1",
+  "name": "fwa25sanku",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
-    "debug": "^4.3.2",
-    "express": "^4.17.1",
-    "http-errors": "^1.8.0",
-    "morgan": "^1.10.0",
-    "pug": "^3.0.2"
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11"
   },
-  "description": "This is my first time with heroku",
+  "description": "[Heroku server] https://cli-auth.heroku.com/auth/cli/callback?code=172b8ed1-ecf1-423e-9900-5ea8c173234a&state=0ad75312-bf92-4c10-8e1e-c50416632bcc",
   "main": "app.js",
   "devDependencies": {},
-  "keywords": [
-    "sample"
-  ],
-  "author": "sanku",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheemanthreddy/fwa25sanku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheemanthreddy/fwa25sanku/issues"
+  },
+  "homepage": "https://github.com/dheemanthreddy/fwa25sanku#readme"
 }
