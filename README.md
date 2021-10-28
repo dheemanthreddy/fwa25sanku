@@ -1,4 +1,4 @@
 # fwa25sanku
 
-[Heroku server] https://dashboard.heroku.com/apps/nameless-badlands-66404
+[Heroku server] https://nameless-badlands-66404.herokuapp.com/
 
